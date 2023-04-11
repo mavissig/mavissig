@@ -1,16 +1,50 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**mavissig/mavissig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://t.me/senior_stepik">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+    <h1>
+      hey there
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
+</div>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Egor. I am studying to become a backend developer at School-21.
+
+- 🖥 I program in C/C++ and Python.
+- ⚙️ I have experience in writing libraries, scripts, and bots.
+- 👨‍🎓 In my free time, I try to develop my skills in areas where I am not involved in my work.
+
+---
+
+### 🛠 Languages and Tools :
+
+<div>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' width="55">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' width="55">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width="55">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg' width="55">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg' width="55"> 
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg' width="55">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg' width="55"> 
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg' width="55">
+</div>
+
+---
+
+### 🔥 My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mavissig&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavissig&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### <img height="16" width="35" src="https://cdn.simpleicons.org/codewars" />My Stats on CodeWars:
+
+<div id="badges" align="center">
+    <img src="https://github.r2v.ch/codewars?user=HOCOKBCMETAHE&stroke=COLOR"/>
+</div>
