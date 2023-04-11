@@ -45,6 +45,6 @@ My name is Egor. I am studying to become a backend developer at School-21.
 
 ### <img height="16" width="35" src="https://cdn.simpleicons.org/codewars" />My Stats on CodeWars:
 
-<div id="badges" align="center">
+<div id="badges">
     <img src="https://github.r2v.ch/codewars?user=HOCOKBCMETAHE&stroke=COLOR"/>
 </div>
