@@ -37,7 +37,7 @@ My name is Egor. I am studying to become a backend developer at School-21.
 
 ---
 
-### My manuals :
+### 📚 My manuals :
 
 #### Installation Docker
 
