@@ -37,6 +37,15 @@ My name is Egor. I am studying to become a backend developer at School-21.
 
 ---
 
+### My manuals :
+
+#### Installation Docker
+
+- [Русская версия](https://github.com/mavissig/manuals/blob/master/docker/docker_installation_RU.md)
+- [English version](https://github.com/mavissig/manuals/blob/master/docker/docker_installation_EN.md)
+
+---
+
 ### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mavissig&theme=dark&background=000000)](https://git.io/streak-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavissig&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
