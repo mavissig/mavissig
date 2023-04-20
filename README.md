@@ -37,6 +37,14 @@ My name is Egor. I am studying to become a backend developer at School-21.
 
 ---
 
+### My Projects :
+
+#### C
+
+- [Matrix](https://github.com/mavissig/lib_matrix) - Library for working with matrices
+
+---
+
 ### 📚 My manuals :
 
 #### Installation Docker
