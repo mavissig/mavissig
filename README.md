@@ -45,12 +45,12 @@ My name is Egor. I am studying to become a backend developer at School-21.
 
 ---
 
-### 📚 My manuals :
+### 📚 My Manuals and Translations :
 
 #### Installation Docker
 
-- [Русская версия](https://github.com/mavissig/manuals/blob/master/docker/docker_installation_RU.md)
-- [English version](https://github.com/mavissig/manuals/blob/master/docker/docker_installation_EN.md)
+- [My Translations]([https://github.com/mavissig/manuals/blob/master/docker/docker_installation_RU.md](https://github.com/mavissig/manuals/tree/develop#%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8-%D0%BF%D0%BE-%D1%81%D0%B8))
+- [My Manuals](https://github.com/mavissig/manuals/tree/develop#my-manuals-1)
 
 ---
 
