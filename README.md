@@ -28,7 +28,7 @@ My name is Egor. I am studying to become a backend developer at School-21.
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' width="55">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' width="55">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width="55">
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg' width="55">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg' width="55">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg' width="55">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg' width="55"> 
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg' width="55">
