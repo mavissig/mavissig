@@ -44,5 +44,6 @@ My name is Egor. I am studying to become a backend developer at School-21.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavissig&layout=compact&langs_count=8&card_width=200" />
 </a>
 <a href="badges">
-  <img height=200 align="center" src="https://github.r2v.ch/codewars?user=HOCOKBCMETAHE&stroke=COLOR"/>
+  <img height=200 align="center" src="https://github.r2v.ch/codewars?user=HOCOKBCMETAHE&theme=light&name=true")
+"/>
 </a>
