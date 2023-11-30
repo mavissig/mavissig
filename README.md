@@ -16,7 +16,7 @@
 
 My name is Egor. I am studying to become a backend developer at School-21.
 
-- 🖥 I program in C/C++ and Python.
+- 🖥 I program in C/C++ and Golang.
 - ⚙️ I have experience in writing libraries, scripts, and bots.
 - 👨‍🎓 In my free time, I try to develop my skills in areas where I am not involved in my work.
 
